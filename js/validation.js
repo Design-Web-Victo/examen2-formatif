@@ -14,7 +14,7 @@ daIconeErreur.classList.remove('hidden');
 daIconeSucces.classList.add('hidden');
 
 /**
- * Modifie les classes d'un élément icone selon la valeur d'un note
+ * Modifie les classes d'un élément icone selon la valeur d'une note
  * @param {integer} note La note utilisée pour savoir qu'elle classe prendre
  */
 function ModifierIconeNote(note) {
